@@ -1,0 +1,3 @@
+export const STATUSES = 'STATUSES'
+export const SUBSCRIBER = 'SUBSCRIBER'
+export const SUBSCRIBERS = 'SUBSCRIBERS'
